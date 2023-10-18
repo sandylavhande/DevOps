@@ -25,6 +25,4 @@ set +x
 # install 
 #install CWAgent
 #create iam usser for cw full access and with credentials for aws configure
-#AKIASZCUV3TCK2C2ZQRO
-#CEzGfMMFUXEtjURVy0FQFrN2Mjfu35rq6khSEYBe
 # */1 * * * * /bin/bash /home/ec2-user/script.sh
